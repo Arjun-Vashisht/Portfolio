@@ -61,7 +61,7 @@ export const projectsData = [
         image: Work7,
         title: 'My Personal Website',
         category: 'design',
-        link: 'https://expense-tracker-eight-murex.vercel.app/'
+        link: 'https://portfolio-arjun-vashisht.vercel.app/'
     }
 ]
 
