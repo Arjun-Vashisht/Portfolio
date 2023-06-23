@@ -5,6 +5,7 @@ import Work4 from '../../assets/work4.png'
 import Work5 from '../../assets/work5.png'
 import Work6 from '../../assets/work6.png'
 import Work7 from '../../assets/work7.png'
+import Work8 from '../../assets/work8.png'
 
 export const projectsData = [
     {
@@ -58,7 +59,7 @@ export const projectsData = [
     },
     {
         id: 8,
-        image: Work7,
+        image: Work8,
         title: 'My Personal Website',
         category: 'design',
         link: 'https://portfolio-arjun-vashisht.vercel.app/'
