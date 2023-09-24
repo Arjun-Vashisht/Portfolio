@@ -62,7 +62,7 @@ const Qualification = () => {
                   <h3 className='qualification__title'>Secondary School</h3>
                   <span className='qualification__subtitle'>Christu Jyoti Convent High School, U.P.</span>
                   <div className='qualification__calender'>
-                    <i className='uil uil-calendar-alt'></i> 2016-2027
+                    <i className='uil uil-calendar-alt'></i> 2016-2017
                   </div>
                 </div>
                 <div>
@@ -103,10 +103,10 @@ const Qualification = () => {
               </div>
               <div className='qualification__data'>
                 <div>
-                  <h3 className='qualification__title'>Developer Mentor At GDSC</h3>
-                  <span className='qualification__subtitle'>Maharaja Agrasen Institute of Technology, Delhi</span>
+                  <h3 className='qualification__title'>Frontend Developer</h3>
+                  <span className='qualification__subtitle'>EventGraphia</span>
                   <div className='qualification__calender'>
-                    <i className='uil uil-calendar-alt'></i> 2020-2023
+                    <i className='uil uil-calendar-alt'></i> August 2023 - Present
                   </div>
                 </div>
                 <div>
