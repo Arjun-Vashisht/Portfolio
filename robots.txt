@@ -1,0 +1,18 @@
+# Allow search engines and AI answer engines to read this portfolio
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://portfolio-ashy-gamma-46.vercel.app/sitemap.xml

@@ -1,0 +1,41 @@
+# Arjun Vashisht
+
+> Software Development Engineer in Gurugram, India. 3+ years building production web platforms with React, Python and Django, plus Redux, TypeScript, FastAPI and AWS.
+
+## Key facts
+- Current role: Software Development Engineer (Team Lead) at EventGraphia, Aug 2023 – present. Owns the React platform and system architecture.
+- Previous: Frontend Developer Intern, GoMechanic, Sep–Dec 2022.
+- Education: B.Tech, Electronics and Communication Engineering, Maharaja Agrasen Institute of Technology, New Delhi, 2020–2024, CGPA 9.1/10.
+- Location: Gurugram, Haryana, India.
+- Open to: Software Development Engineer roles.
+
+## Measured results
+- 60% faster page loads after migrating jQuery pages to React.
+- 90% shorter deployments with zero downtime (AWS S3 + CloudFront).
+- 40% more referral signups from a Refer & Earn program.
+- Near-zero infrastructure cost for bulk image downloads (Django batching + React Service Workers).
+- 20% more efficient feature development via a custom PostHog dashboard.
+
+## Notable work
+- Migrated legacy jQuery pages to React (60% faster).
+- Custom React video player, queued multi-image uploads, album autoplay, timestamped video comments.
+- Shared JavaScript component library distributed over CDN.
+- AWS Rekognition face recognition so event guests find their photos instantly.
+- Razorpay and Cashfree payments with quotation-based dynamic pricing.
+- Photographer dashboard with real-time WebSocket updates (FastAPI, Django, React).
+- Side project, Phera: an autonomous 11-agent pipeline (crawl, select, write, plagiarism check, fact-check, SEO, images, reel, voice, music, publish) that runs a wedding magazine twice daily with narrated 1080x1920 reels.
+- Shoppin: cross-platform Android/iOS shopping app from one React codebase (Capacitor.js).
+- ProManage: project and task management app (React, Django REST Framework, Redis, Celery, MongoDB, JWT). https://github.com/Arjun-Vashisht/promanage
+- ProShop: MERN e-commerce store with Redux, PayPal checkout, JWT auth and admin screens. https://github.com/Arjun-Vashisht/ProShop
+- Fibr landing-page manager: Next.js + Firebase dashboard with CRUD, draft/publish and auth. https://github.com/Arjun-Vashisht/fibr-project
+
+## Skills
+Core: ReactJS, Python, Django, Redux, TypeScript, JavaScript (ES6+), Tailwind, React Spring, Service Workers, Capacitor.js.
+Also: FastAPI, REST, WebSockets, MongoDB, Redis, SQLite, Firebase, AWS (S3, CloudFront, Rekognition), Docker, CI/CD, n8n, ffmpeg, Claude, Gemini, Groq, Ollama, Kokoro TTS, Razorpay, Cashfree, PostHog.
+
+## Links
+- Portfolio: https://portfolio-ashy-gamma-46.vercel.app/
+- Resume (PDF): https://portfolio-ashy-gamma-46.vercel.app/Arjun_Vashisht_Resume.pdf
+- GitHub: https://github.com/Arjun-Vashisht
+- LinkedIn: https://www.linkedin.com/in/arjun-vashisht/
+- Email: arjunvashisht17@gmail.com
