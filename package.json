@@ -1,0 +1,8 @@
+{
+  "name": "portfolio",
+  "private": true,
+  "description": "Static portfolio site. No dependencies; Vercel copies the files into dist/.",
+  "engines": {
+    "node": "22.x"
+  }
+}
