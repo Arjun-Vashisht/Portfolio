@@ -1,6 +1,6 @@
 {
   "framework": null,
-  "installCommand": "",
-  "buildCommand": "",
-  "outputDirectory": "."
+  "installCommand": "echo no install needed",
+  "buildCommand": "mkdir -p dist && cp index.html profile.jpg Arjun_Vashisht_Resume.pdf llms.txt robots.txt sitemap.xml dist/",
+  "outputDirectory": "dist"
 }

@@ -10,7 +10,7 @@ A single static page with no build step:
 - `Arjun_Vashisht_Resume.pdf` – the resume linked from the site
 - `profile.jpg` – profile photo
 - `llms.txt`, `robots.txt`, `sitemap.xml` – search and AI-crawler metadata
-- `vercel.json` – tells Vercel to serve the files as they are, without a build
+- `vercel.json` – Vercel copies the site files into `dist/` and serves them (no framework, no dependencies)
 
 To preview locally, open `index.html` in a browser or run `python3 -m http.server`.
 
